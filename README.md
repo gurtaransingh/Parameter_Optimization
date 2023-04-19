@@ -10,6 +10,7 @@ We can perform this task using GridSearchCV for optimizing these parameters.
 
 In this python file, I've used a Fitness Function to optimize the parameters.
 
+![image](https://user-images.githubusercontent.com/79128432/233181374-bbbcdc26-1153-4038-a0ce-3c9cbb2e6346.png)
 
 # Dataset
 
