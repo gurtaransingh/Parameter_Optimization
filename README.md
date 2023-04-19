@@ -10,7 +10,19 @@ We can perform this task using GridSearchCV for optimizing these parameters.
 
 In this python file, I've used a Fitness Function to optimize the parameters.
 
-![image](https://user-images.githubusercontent.com/79128432/233181374-bbbcdc26-1153-4038-a0ce-3c9cbb2e6346.png)
+## Results
+Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
+0	1	0.63	poly	0.54	0.25
+1	2	0.62	rbf	7.25	5.11
+2	3	0.66	poly	0.19	2.50
+3	4	0.42	rbf	1.64	7.45
+4	5	0.44	rbf	4.52	9.81
+5	6	0.72	sigmoid	6.71	1.00
+6	7	0.50	rbf	9.24	7.97
+7	8	0.66	sigmoid	3.41	3.43
+8	9	0.66	poly	6.39	4.73
+9	10	0.63	rbf	2.99	9.72
+
 
 # Dataset
 
