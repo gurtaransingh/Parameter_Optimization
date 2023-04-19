@@ -25,6 +25,9 @@ In this python file, I've used a Fitness Function to optimize the parameters.
 | 9      | 10            | rbf         | 2.99    | 9.72         |
 
 
+## Convergence Graph
+![image](https://user-images.githubusercontent.com/79128432/233182260-289fd7f7-2d79-4164-aa8b-8511e2c2fe65.png)
+
 
 # Dataset
 
